@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**querubinsistemas/querubinsistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 About Us Querubin Sistemas and from in Argentina!
 
 - 🔭 I’m currently working on Querubin Sistemas...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: https://querubin-sistemas.vercel.app
 - ⚡ Fun fact: ...
--->
+
